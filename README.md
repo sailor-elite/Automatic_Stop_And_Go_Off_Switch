@@ -19,3 +19,4 @@ Off Switch for AS&amp;G System in Mistubishi ASX and Citroen C4 Aircross.
 - Arduino.h
 
 # Schematic
+![schematic_bb.jpg]
