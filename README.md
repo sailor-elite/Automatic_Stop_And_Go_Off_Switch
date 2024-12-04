@@ -23,4 +23,7 @@ Off Switch for AS&amp;G System in Mistubishi ASX and Citroen C4 Aircross.
 
 
 # Casing
-![casing](docs/casing.png)
+<p align="center">
+  <img src="docs/casing.png">
+</p>
+
